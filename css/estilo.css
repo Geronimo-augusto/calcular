@@ -1,0 +1,10 @@
+#calc{
+    background-color: blueviolet;
+    color: chartreuse;
+}
+#calc:hover{
+    background-color: chartreuse;
+    color: blueviolet;
+    width: 100px;
+    box-shadow: 50px 50px 50px yellow;
+}
