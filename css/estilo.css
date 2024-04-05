@@ -5,6 +5,12 @@
 #calc:hover{
     background-color: chartreuse;
     color: blueviolet;
-    width: 100px;
-    box-shadow: 50px 50px 50px yellow;
+    /* width: 100px;
+    box-shadow: 50px 50px 50px yellow; */
+}
+
+#resultado{
+    font-size: 150px;
+    color: blue;
+    margin-left: 100px;
 }
